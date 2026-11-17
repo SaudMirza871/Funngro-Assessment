@@ -2,6 +2,9 @@
 
 A production-grade, high-performance Flutter mobile application engineered for teen freelance opportunities and wallet management. Built with Material 3, clean architecture, and strict memory and lifecycle safety.
 
+Funngro App Apk
+https://drive.google.com/file/d/1QOP_NrYGKL45tPS9sGYgoaiyz6aVdSqQ/view?usp=sharing
+
 ---
 
 ## 📱 Project Overview
